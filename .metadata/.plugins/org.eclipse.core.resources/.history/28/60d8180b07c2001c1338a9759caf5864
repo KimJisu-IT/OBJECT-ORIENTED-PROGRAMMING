@@ -1,0 +1,6 @@
+
+public class GridBagLayoutMain {
+	public static void main(String[] args) {
+		GridBagLayout grid= new GridBagLayout();
+	}
+}
